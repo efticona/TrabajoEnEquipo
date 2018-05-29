@@ -1,0 +1,29 @@
+footer a {
+    color: rgb(238, 232, 238);
+  }
+  footer a:hover {
+    color: #fff;
+  }
+  #icons {
+    width: 184px;
+    float: right;
+  }
+  #icons li {
+    float: left;
+    padding-right: 10px;
+    list-style:none;
+  }
+  
+  #icons .first {
+    float: none;
+    font-size: 23px;
+    color: #fff;
+    font-weight: 400;
+    margin-top: -15px;
+    padding-bottom: 9px;
+  }
+  footer {
+    padding: 30px 20px 0;
+    background: #848484;
+  }
+ 
